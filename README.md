@@ -4,6 +4,6 @@ Questo repository contiene le esercitazioni svolte durante il corso di **Tecnolo
 
 ### Markle Tree
 
-Scrivere un programma in Python che sia in grado di leggere un insieme di file (in numero pari) e calcolare il [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree) root utilizzando la funzione hash SHA256.
+Scrivere un programma in Python che sia in grado di leggere un insieme di file e calcolare il [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree) root utilizzando la funzione hash SHA256.
 
 Soluzione in [merkle/merkle_tree.py](merkle/merkle_tree.py)
