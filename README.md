@@ -14,7 +14,7 @@ Scrivere un programma in Python che sia in grado di risolvere il Proof of Work (
 
 Soluzione in [PoW/pow.py](PoW/pow.py)
 
-## Generare un indirizzo Bitcoin
+### Generare un indirizzo Bitcoin
 
 Scrivere un programma in Python per generare un indirizzo Bitcoin valido. Per verificare che l'indirizzo generato sia valido è possibile utilizzare [questo](https://thomas.vanhoutte.be/tools/validate-bitcoin-address.php) servizio.
 
